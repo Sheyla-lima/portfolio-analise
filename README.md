@@ -19,4 +19,4 @@ Neste repositório você encontrará a anaçise de dois (2) projetos, sendo:
 
 - Site utilizado para elaboração do Plano de teste [Saucedemo](https://www.saucedemo.com/)
 
-![Home Site Saucedemo](img/Site_saucedemo.png)
+![Home Site Saucedemo](img\Site_saucedemo.png)
