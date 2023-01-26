@@ -7,14 +7,13 @@ retirado do site UpsLabs, site onde vários designer tem a possibilidade de subi
 
 - Protótipo do Figma [PodcastApp](https://www.uplabs.com/posts/podcast-app-27e7dba2-b5d6-40f8-be0f-52d6710b9af7)
 
-![Referencia Protótipo](..\img\ref_figma.png)
-
+![Referencia Protótipo](../img/ref_figma.png)
 
 ## Análise do Projeto
 
 A imagem abaixo irá indicar como foi feita a análise deste projeto utilizando o **MIRO** para análise visual.
 
-![Referencia da análise](img\ref_analise.png)
+![Referencia da análise](img/ref_analise.png)
 
 1. Indicação da Imagem a ser analisada
 2. Indicação de qual Requerimento iremos analiser, indicando seu numer e nome
@@ -22,6 +21,7 @@ A imagem abaixo irá indicar como foi feita a análise deste projeto utilizando 
 4. Listagem das regras de negócio a serem implementadas.
 
 ### Referência da Análise
+
 REQ 1 Exibir Splash Screem
 REQ -2 Criar padrão de Header
 REQ -3 TOP 10 Podcast
