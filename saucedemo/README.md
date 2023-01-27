@@ -46,13 +46,13 @@ Nesta aba irá conter um resumo da estratpegia adotada para os testes apresentad
 
 Nesta aba é informado em qual aparelho foi realizado o teste.
 
-![Ambiente de teste](img\ambiente_teste.png)
+![Ambiente de teste](img/ambiente_teste.png)
 
 ## Apresentando o Critério de Aceite
 
 Nesta aba temos a descrição de como foi orquestrado os critérios a serem atendidos nas execução de testes.
 
-![Critérios de Aceite](img\criterios_aceite.png)
+![Critérios de Aceite](img/criterios_aceite.png)
 
 ## Apresentando Suite
 
@@ -69,6 +69,6 @@ Nas abas Suites será apresentado os critérios de aceite e cenários abordados 
 - Resultado Esperado: Informa o que deve ocorrer após o usuário agir.
 - Resultado Obtido: Informa o que ocorreu de fato ao executar o teste.
 - Defeitos: Havendo erro, aqui será descrito.
-- Finalizado: Data da finalização, podendo haver contagem de tempo para mensurar o tempo utilizado
+- Finalizado: Data da finalização, podendo haver contagem de tempo para mensurar o tempo utilizado. 
 
-![Aba Suite](img\suite_login.png)
+![Aba Suite](img/suite_login.png)
