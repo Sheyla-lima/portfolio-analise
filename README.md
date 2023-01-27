@@ -3,7 +3,7 @@
 
 Este projeto tem como finalidade mostrar o meu trabalho de análise de requisitos e plano de teste
 
-Neste repositório você encontrará a anaçise de dois (2) projetos, sendo:
+Neste repositório você encontrará a analise de dois (2) projetos, sendo:
 
 - Analise de requisitos de um protótipo Figma
 - Plano de Teste de um site
