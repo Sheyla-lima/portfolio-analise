@@ -54,7 +54,7 @@ Nesta aba temos a descrição de como foi orquestrado os critérios a serem aten
 
 ![Critérios de Aceite](img/criterios_aceite.png)
 
-## Apresentando Suite
+## Apresentando as Suites
 
 Nas abas Suites será apresentado os critérios de aceite e cenários abordados para realizar os testes referente a funcionalidades descritas.
 
@@ -72,3 +72,9 @@ Nas abas Suites será apresentado os critérios de aceite e cenários abordados 
 - Finalizado: Data da finalização, podendo haver contagem de tempo para mensurar o tempo utilizado. 
 
 ![Aba Suite](img/suite_login.png)
+
+## Apresentado Macros
+
+Nesta aba será apresentado os dados base que são utilizados nos combos disponíveis nas abas anteriores da planilha.
+
+![Aba Macros](img/macros.png)
