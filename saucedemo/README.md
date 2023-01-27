@@ -42,6 +42,12 @@ Nesta aba irá conter um resumo da estratpegia adotada para os testes apresentad
 
 ![Estratégia de teste](img/estrategia_teste.png)
 
-## Apresentando a Suite
+## Apresentando o Ambiente de Teste
 
-Na aba Suite
+Nesta aba é informado em qual aparelho foi realizado o teste.
+
+![Ambiente de teste](img\ambiente_teste.png)
+
+
+
+
