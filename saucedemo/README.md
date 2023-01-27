@@ -48,6 +48,27 @@ Nesta aba é informado em qual aparelho foi realizado o teste.
 
 ![Ambiente de teste](img\ambiente_teste.png)
 
+## Apresentando o Critério de Aceite
 
+Nesta aba temos a descrição de como foi orquestrado os critérios a serem atendidos nas execução de testes.
 
+![Critérios de Aceite](img\criterios_aceite.png)
 
+## Apresentando Suite
+
+Nas abas Suites será apresentado os critérios de aceite e cenários abordados para realizar os testes referente a funcionalidades descritas.
+
+- Tipo de teste: Funcional, pois o site testado já existe e está sendo válido de as funcionalidades estão conforme se espera.
+- Subtipo de teste: Critérios de aceite, pois entende-se que ao ter um site com as funcionalidades entregues, alguns critérios devem estar de acordo com o esperando segundo a visão do usuário.
+- Pré Condição: Lista o que é necessário para realizar o teste (massa de teste)
+- Requisitos: Objetivo principal da funcionalidade.
+- Dados necessários: Descreve quais os dados precisam ser utilizados para que o teste ocorra como esperado.
+- ID: Numeração dos cenários abordados na suite.
+- Critérios de Aceite: Detalha em qual local do site o usuário está e o que ela fará para atigir o obejtivo esperado.
+- Severidade Prioridade: Classificação atribuida ao cenário, conténdo classificações pré estabelecidas que deve ser analisada em conjuto aos demais cenários abordados na suite.
+- Resultado Esperado: Informa o que deve ocorrer após o usuário agir.
+- Resultado Obtido: Informa o que ocorreu de fato ao executar o teste.
+- Defeitos: Havendo erro, aqui será descrito.
+- Finalizado: Data da finalização, podendo haver contagem de tempo para mensurar o tempo utilizado
+
+![Aba Suite](img\suite_login.png)
